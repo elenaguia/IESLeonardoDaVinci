@@ -9,5 +9,7 @@
 
 - [Introducción BBDD](https://drive.google.com/file/d/1JgWCOzYQSWb0M4BxIwDCirZG_vVlCiaH/view?usp=sharing)
 
-- [Practica0 - Introducción BBDD](https://docs.google.com/document/d/1EqHMrXbvPCzWpeZnvupeEHGW0jLuxw_8/edit?usp=sharing&ouid=102091500432153863914&rtpof=true&sd=true) 
+- [Practica0 - Introducción BBDD](https://docs.google.com/document/d/1EqHMrXbvPCzWpeZnvupeEHGW0jLuxw_8/edit?usp=sharing&ouid=102091500432153863914&rtpof=true&sd=true)
+  
+- [Ley de Protección de Datos](https://docs.google.com/document/d/1a2H3aUNOG72uaBJDtHWQk2RpSWRAQIswzcOCmVyXQPE/edit?usp=sharing)
   
